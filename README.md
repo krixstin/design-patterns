@@ -43,12 +43,14 @@ Not safe in Multi-Thread Environment:
 
 Interface can't use static methods
 
+<br>
 
 ## Visitor Pattern
 Without chaing the classes of the elements on which it operates, it lets you define a new operations 
 
 ![image](https://user-images.githubusercontent.com/55266110/113383119-340f8b00-9351-11eb-9e77-371a4beced21.png)
 
+<br>
 
 ## Source 
 https://www.tutorialspoint.com/design_pattern/design_pattern_quick_guide.htm
